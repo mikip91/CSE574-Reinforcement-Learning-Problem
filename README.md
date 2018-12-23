@@ -1,2 +1,2 @@
 # CSE574-Reinforcement-Learning-Problem
-Reinforcement learning using tom and jerry
+In this project, we studied how to apply reinforcement learning and deep learning to teach the agent to navigate in the grid-world environment. Our objective was to model a game using Tom and Jerry cartoon where Tom, a cat, is chasing Jerry, a mouse. The task for Tom (an agent) is to nd the shortest path to Jerry (a goal), given that the initial positions of Tom and Jerry. We applied Deep reinforcement learning algorithm - DQN (Deep Q-Network), to solve our task. 
